@@ -1,9 +1,9 @@
 # QUIZ-APP
 Project 
 --------------
-Nupat has just designed a new consumer product which they are intending to launch by the 5th of May 2022. As part of requirment, the sales department has requested that the Dev team build an application to collect some data from consumers in form of quiz. 
+Nupat has just designed a new consumer product which they are intending to launch by the 5th of May 2022. As part of requirement, the sales department has requested that the I build an application to collect some data from consumers in form of quiz. 
 
-The sales department have a deadline of 1 week and the Dev team must build the code and test on the 3rd of May 2022 before the deployment to the production environment.
+The sales department have a deadline of 1 week and the I must build the code and test on the 3rd of May 2022 before the deployment to the production environment.
 
  My Task
 ===
